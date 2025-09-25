@@ -21,7 +21,7 @@
 
 # Technologies Used:
 + **Back-End:** Spring Boot, Spring Security, Spring Data JPA
-+ **Database:** MySQL
++ **Database:** POSTGRESQL
 + **Payment Gateway:** Stripe
 + **Authentication:** JWT, Spring Security
 + **Deployment:** AWS
@@ -130,7 +130,7 @@ stripe.api.key=YOUR_API_KEY
 + In the **application.properties** update the properties as needed.
 
 ```bash
-spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
+spring.datasource.url=jdbc:postgresql://localhost:3306/your_database_name
 spring.datasource.username=root
 spring.datasource.password=your_password
 
@@ -159,7 +159,7 @@ Feel free to contribute to this project by submitting issues, suggesting feature
 
 ## Feedback
 I appreciate your feedback! Please open an issue on GitHub if you encounter any problems or have suggestions for improvement. Your feedback helps enhance the project for everyone.
-Please reach out to me at patra.ap.work@gmail.com
+Please reach out to me at kumaramit10143@gmail.com
 
 ## Authors
 
