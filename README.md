@@ -126,7 +126,7 @@ stripe.api.key=YOUR_API_KEY
 ```
 
 4. **Configure the Database:**
-+ Set up a MySQL database.
++ Set up a POSTGRESQL database.
 + In the **application.properties** update the properties as needed.
 
 ```bash
