@@ -177,7 +177,4 @@ Please reach out to me at kumaramit10143@gmail.com
 
 ![swagger_demo_5](https://github.com/user-attachments/assets/3d815d4b-7aee-4066-aa12-dbf4cf61edaa)
 
-## Demo 
-https://github.com/user-attachments/assets/37156f5e-869a-4b18-a77c-61d8ceca0c59
 
-https://github.com/user-attachments/assets/d17e56bc-6c76-4e53-bcba-4a430502324a
